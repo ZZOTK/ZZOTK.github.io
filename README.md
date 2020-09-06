@@ -12,10 +12,10 @@
  
 
 ## 项目
-   数据结构及算法的学习：https://github.com/ZZOTK/-
-   leetcode做题笔记：https://github.com/ZZOTK/leetcod
-   合金切片的三维重建（python&VTK）：
-   合金切片中的目标跟踪:
+### 数据结构及算法的学习： https://github.com/ZZOTK/-
+### leetcode做题笔记： https://github.com/ZZOTK/leetcod
+### 合金切片的三维重建（python&VTK）：
+### 合金切片中的目标跟踪:
 ### Support or Contact
 
 
